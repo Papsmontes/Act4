@@ -68,8 +68,7 @@ def move():
 
     for target in targets:
         if not inside(target):
-            target = vector(200, target.y)
-            goto(target.x, target.y)
+            return
 
     ontimer(move, 1)
 
