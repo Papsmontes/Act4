@@ -1,0 +1,23 @@
+Documentación de la actividad uno
+Programadores:
+Leonardo Montes
+Karla Trejo
+
+-- 7 de Mayo del 2021 --
+
+Modificaciones al juego cannon.py
+
+Se agregaron las siguientes funcionalidades
+
+
+Para cambiar la velocidad del movimiento se modifico la linea 74 y se disminuyo el tiempo que necesita para llamar a la funcion asi dando mas velocidad.
+Para hacer que el juego nunca terminara y los balones se re posicionaran se modifico la linea 71 - 72 donde se de quito el return () y se agrego lineas para 
+cambiar los vectores y poder re posicionar al principio. 
+
+
+El archivo fuente donde se hicieron las modificaciones no es de nuestra propiedad, 
+fue obtenido de las librerias de freegames de python, el archivo original es cannon.py
+puede revisarse un poco de la libreria y de los archivos originales de los juegos en la siguiente URL:
+http://www.grantjenks.com/docs/freegames/
+
+
